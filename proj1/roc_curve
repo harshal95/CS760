@@ -1,0 +1,2 @@
+#!/bin/bash
+python roc_curve.py $1 $2 $3

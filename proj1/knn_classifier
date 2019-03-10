@@ -1,0 +1,2 @@
+#!/bin/bash
+python knn_classifier.py $1 $2 $3
